@@ -1,6 +1,6 @@
 # Crazy-cabbie
 Expolre and enjoy yourself! 
-A little effort to get out of yout boredom of your hectic scheduele :)
+A little effort to get you out of your monotonous hectic scheduele :)
 
 Gaming-Website link: https://clary09.github.io/gaming_website/
 
