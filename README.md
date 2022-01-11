@@ -2,7 +2,7 @@
 Explore and enjoy yourself! 
 A little effort to get you out of your monotonous hectic scheduele :)
 
-Gaming-Website link: https://clary09.github.io/gaming_website/
+[Gaming-Website link:]( https://clary09.github.io/gaming_website/)
 
 ![Screen Shot 2021-06-26 at 3 42 07 PM](https://user-images.githubusercontent.com/78691639/123509764-17a39600-d695-11eb-8f67-fc84d3f6176e.png)
 
